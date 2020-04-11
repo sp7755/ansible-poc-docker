@@ -14,6 +14,7 @@ ansible-playbook -i hosts deploy_poc_stack.yml --tags "elk"
 
 ansible-playbook -i hosts deploy_poc_stack.yml --tags "fullstack"
 
+To view the content fetched from Mysql access https://hostname/ from browser
 
 
 #Deploy Filebeat using below command
