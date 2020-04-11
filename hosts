@@ -1,0 +1,17 @@
+[servers]
+10.128.0.13
+
+[filebeat]
+10.128.0.13
+
+[elk-server]
+10.128.0.13
+
+[mysql-server]
+10.128.0.13
+
+[redis-server]
+10.128.0.13
+
+[php-server]
+node4
